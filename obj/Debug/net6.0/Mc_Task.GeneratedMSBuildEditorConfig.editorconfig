@@ -1,0 +1,20 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Mc_Task
+build_property.RootNamespace = Mc_Task
+build_property.ProjectDir = D:\MchiperTask\Mc_Task\Mc_Task\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\MchiperTask\Mc_Task\Mc_Task
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/MchiperTask/Mc_Task/Mc_Task/Pages/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
